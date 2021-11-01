@@ -3,6 +3,9 @@
 
 ## Technologies
 #### Front-End
+<p float="left">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="20px" />
+</p>
 #### Back-End
 
 ## Learning
