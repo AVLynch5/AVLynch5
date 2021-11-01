@@ -1,6 +1,6 @@
 # ✨ Greetings and Salutations ✨
 <p> Call me 'TJ'. Former Chemistry researcher turned software engineer. </p>
-<div style="display: block; margin-right: auto; margin-left: auto;">
+<div align="center">
   <img src="https://media3.giphy.com/media/A5ugHVbuFL3uo/giphy.gif?cid=ecf05e47zaqjljr7obqgd4n2f1e5zwoc7si9uheei1dmocp8&rid=giphy.gif&ct=g" alt="Homer-cooking" />
 </div>
   
