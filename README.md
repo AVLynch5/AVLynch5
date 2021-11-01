@@ -1,7 +1,7 @@
 # ✨ Greetings and Salutations ✨
 <div align="center">
   <img src="https://media3.giphy.com/media/A5ugHVbuFL3uo/giphy.gif?cid=ecf05e47zaqjljr7obqgd4n2f1e5zwoc7si9uheei1dmocp8&rid=giphy.gif&ct=g" alt="Homer-cooking" />
-  <p> Call me 'TJ'. Former Chemistry researcher turned software engineer. </p>
+  <p> Call me 'TJ'. Lover of cooking, coding, and all things LEGO. </p>
 </div>
   
 ## Technologies
