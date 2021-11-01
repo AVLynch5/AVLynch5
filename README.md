@@ -1,4 +1,14 @@
-### ✨ Greetings and Salutations ✨
+# ✨ Greetings and Salutations ✨
+##### Call me 'TJ'. Former Chemistry researcher turned software engineer.
+
+## Technologies
+#### Front-End
+#### Back-End
+
+## Learning
+
+## Contact 
+
 
 <!--
 **AVLynch5/AVLynch5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
