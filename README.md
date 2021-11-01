@@ -1,5 +1,5 @@
 # ✨ Greetings and Salutations ✨
-##### Call me 'TJ'. Former Chemistry researcher turned software engineer.
+<p> Call me 'TJ'. Former Chemistry researcher turned software engineer. </p>
 
 ## Technologies
 #### Front-End
