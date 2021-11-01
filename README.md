@@ -1,5 +1,6 @@
 # ✨ Greetings and Salutations ✨
 <p> Call me 'TJ'. Former Chemistry researcher turned software engineer. </p>
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/A5ugHVbuFL3uo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/channelfrederator-channel-frederator-the-simpsons-homer-simpson-A5ugHVbuFL3uo">via GIPHY</a></p>
 
 ## Technologies
 #### Languages
